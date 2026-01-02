@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\C#-Projeler\Virus-Antivirus\bin\Debug\Virus-Antivirus.exe.config
+C:\Users\user\Desktop\C#-Projeler\Virus-Antivirus\bin\Debug\Virus-Antivirus.exe
+C:\Users\user\Desktop\C#-Projeler\Virus-Antivirus\bin\Debug\Virus-Antivirus.pdb
+C:\Users\user\Desktop\C#-Projeler\Virus-Antivirus\obj\Debug\Virus-Antivirus.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C#-Projeler\Virus-Antivirus\obj\Debug\Virus_Antivirus.Properties.Resources.resources
+C:\Users\user\Desktop\C#-Projeler\Virus-Antivirus\obj\Debug\Virus-Antivirus.csproj.GenerateResource.cache
+C:\Users\user\Desktop\C#-Projeler\Virus-Antivirus\obj\Debug\Virus-Antivirus.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#-Projeler\Virus-Antivirus\obj\Debug\Virus-Antivirus.exe
+C:\Users\user\Desktop\C#-Projeler\Virus-Antivirus\obj\Debug\Virus-Antivirus.pdb
+C:\Users\user\Desktop\C#-Projeler\Virus-Antivirus\obj\Debug\Virus-Antivirus.exe.config
